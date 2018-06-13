@@ -8,6 +8,7 @@ public class conflito : MonoBehaviour {
 	void Start () {
 
 		Debug.Log ("Mas quero manter esse aqui!");
+		Debug.Log ("adicionei coisa nova");
 
 		
 
